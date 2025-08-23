@@ -32,7 +32,8 @@
 | :---- | :---- | :---- | :---- |
 | 1982 \- 1991 | BBC Basic |  |  |
 | 1992 \- 1993 | C | Visual Basic |  |
-| 1994 \- 1995 | C++ | Visual Basic | Informix 4GL (on SCO UNIX OpenServer) |
+| 1994 | C++ | Visual Basic | |
+| 1995 | C++ | Informix 4GL (on SCO UNIX OpenServer) | |
 | 1996 | C | PL/SQL |  |
 | 1997 | C | PL/SQL | Perl |
 | 1998 \- 1999 | C | C++ | Java, PL/SQL, Perl (CGI), JavaScript (in browser) |
