@@ -19,7 +19,7 @@
 | 2000 \- 2001 | Windows 2000 (x86) | Mandrake (x86) | Solaris 7 (SPARC) |
 | 2002 | Windows 2000 (x86) | Gentoo (x86) | Solaris 8 (SPARC) |
 | 2003 | Windows XP (x86) | Gentoo (x86) | Solaris 8 (SPARC) |
-| 2004 | RedHat /Ximian Desktop (x86) | Windows XP (x86) |  |
+| 2004 | RedHat / Ximian Desktop (x86) | Windows XP (x86) |  |
 | 2005-2006 | Fedora (x86) | Windows XP (x86) |  |
 | 2007 | Fedora (x86-64) | Ubuntu (x86-64) |  |
 | 2008 \- 2013 | Ubuntu (x86-64) |  |  |
