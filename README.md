@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on AI-driven modernisation of old applications
+- 🔭 I’m currently working on AI-driven modernisation of legacy applications
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about MongoDB Aggregations
 
