@@ -21,7 +21,7 @@
 | 2003 | Windows XP (x86) | Gentoo (x86) | Solaris 8 (SPARC) |
 | 2004 | RedHat /Ximian Desktop (x86) | Windows XP (x86) |  |
 | 2005-2006 | Fedora (x86) | Windows XP (x86) |  |
-| 2007 | Fedora (x86-64) | Ubuntu (x86-64 |  |
+| 2007 | Fedora (x86-64) | Ubuntu (x86-64) |  |
 | 2008 \- 2013 | Ubuntu (x86-64) |  |  |
 | 2014 \- 2017 | Ubuntu (x86-64) | Amazon Linux 1 (x86-64 |  |
 | 2018 \- now | Ubuntu (x86-64) | Amazon Linux 2 (x86-64 |  |
