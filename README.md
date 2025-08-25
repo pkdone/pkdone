@@ -43,8 +43,8 @@
 | 2002 \- 2004 | Java (J2EE) | C\# (Mono) |  |
 | 2005 \- 2006 | Java (J2EE) |  |  |
 | 2007 \- 2013 | Java (JEE) | Python (Jython) |  |
-| 2014 \- 2019 | Python | JavaScript (in mongosh) |  |
-| 2020 \- 2021 | Python | Rust | JavaScript (in mongosh) |
+| 2014 \- 2019 | Python | JavaScript (Mongo Shell) |  |
+| 2020 \- 2021 | Python | Rust | JavaScript (Mongo Shell) |
 | 2022 \- 2023 | JavaScript | Python |  |
 | 2024 \- now | TypeScript |  |  |
 
