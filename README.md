@@ -14,8 +14,9 @@
 | :---- | :---- | :---- | :---- |
 | 1982 \- 1991 | Acorn MOS (BBC Microcomputer) |  |  |
 | 1992 \- 1993 | Sun OS 4.1 (Motorola 68k) | Windows 3.1 (x86) |  |
-| 1994 \- 1995 | Solaris 2 (SPARC) | Windows 3.1 (x86) |  |
-| 1996 | Windows NT3.5 (x86) | SCO UNIX OpenServer 5 (x86) | Solaris 2 (SPARC) |
+| 1994 | Solaris 2 (SPARC) | Windows 3.1 (x86) |  |
+| 1995 | Solaris 2 (SPARC) | SCO UNIX OpenServer 5 (x86) | Windows 3.1 (x86) |
+| 1996 | Windows NT3.5 (x86) | Solaris 2 (SPARC) |  |
 | 1997 \- 1998 | Windows NT4 (x86) | SUSE (x86) | Solaris 2 (SPARC) |
 | 1999 | Windows NT4 (x86) | Mandrake (x86) | Solaris 2 (SPARC) |
 | 2000 \- 2001 | Windows 2000 (x86) | Mandrake (x86) | Solaris 7 (SPARC) |
