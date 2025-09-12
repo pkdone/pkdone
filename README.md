@@ -56,7 +56,7 @@
 | 1993 \- 1994 | Microsoft Access |  |
 | 1995 | Ingres (on Solaris) | Informix (on SCO UNIX OpenServer) |
 | 1996 \- 1999 | Oracle |  |
-| 2000 \- 2001 | Oracle | Sybase Adaptive Server Anywhere (née Watcom SQL, not Enterprise) |
+| 2000 \- 2001 | Oracle | Sybase Adaptive Server Anywhere (not Enterprise; née Watcom SQL ) |
 | 2002 \- 2004 | Oracle | Cloudscape |
 | 2005 \- 2012 | Oracle |  |
 | 2013 | Oracle | MongoDB |
