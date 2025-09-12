@@ -69,9 +69,9 @@
 | 1995 | Informix 4GL Forms |  |
 | 1996 \- 1997 | Oracle Forms |  |
 | 1998 \- 1999 | Oracle Forms | Netscape Enterprise Server (CGI) |
-| 2000 \- 2004 | SilverStream | Tomcat |
-| 2005 \- 2008 | BEA WebLogic |  |
-| 2009 \- 2013 | Oracle WebLogic |  |
+| 2000 \- 2004 | SilverStream (J2EE) | Tomcat (J2EE) |
+| 2005 \- 2008 | BEA WebLogic (J2EE) |  |
+| 2009 \- 2013 | Oracle WebLogic (JEE) |  |
 | 2017 \- 2020 | Kubernetes |  |
 | 2022 \- 2023 | MongoDB Atlas App Services |  |
 
