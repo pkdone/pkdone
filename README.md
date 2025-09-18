@@ -4,7 +4,7 @@
 | :---- | :---- | :---- | :---- |
 | 2009 | [Professional Oracle WebLogic Server](https://www.wiley.com/en-gb/Professional+Oracle+WebLogic+Server-p-9780470484302)  | Wiley | Contributing author \- wrote the chapter “Developing and Deploying Web Services” |
 | 2021 | [Practical MongoDB Aggregations](https://www.practical-mongodb-aggregations.com/) | *self* | Online electronic version of the book |
-| 2023 | [Practical MongoDB Aggregations](https://www.packtpub.com/en-gb/product/practical-mongodb-aggregations-9781835080641) | Packt | Extended version of the book, including hardcopy format |
+| 2023 | [Practical MongoDB Aggregations](https://www.packtpub.com/en-gb/product/practical-mongodb-aggregations-9781835080641) | Packt | Extended version of the book, including hardcopy formats |
 
 # Personal Technology History
 
