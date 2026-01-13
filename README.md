@@ -46,8 +46,8 @@
 | 2007 \- 2013 | Java (JEE) | Python (Jython) |  |
 | 2014 \- 2019 | Python | JavaScript (Mongo Shell) |  |
 | 2020 \- 2021 | Python | Rust | JavaScript (Mongo Shell) |
-| 2022 \- 2023 | JavaScript | Python |  |
-| 2024 \- now | TypeScript |  |  |
+| 2022 \- 2023 | JavaScript (Node.js) | Python |  |
+| 2024 \- now | TypeScript (Node.js) |  |  |
 
 ## Databases
 
