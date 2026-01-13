@@ -39,7 +39,7 @@
 | 1995 | C++ | Informix 4GL (on SCO UNIX OpenServer) | |
 | 1996 | C | PL/SQL |  |
 | 1997 | C | PL/SQL | Perl |
-| 1998 \- 1999 | C | C++ | Java, PL/SQL, Perl (CGI), JavaScript (in browser) |
+| 1998 \- 1999 | C | C++ | Java, PL/SQL, Perl (CGI), JavaScript (browser) |
 | 2000 \- 2001 | Java (J2EE) |  |  |
 | 2002 \- 2004 | Java (J2EE) | C\# (Mono) |  |
 | 2005 \- 2006 | Java (J2EE) |  |  |
