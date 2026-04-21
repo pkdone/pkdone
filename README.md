@@ -13,7 +13,7 @@
 | Years | Primary | Secondary | Tertiary |
 | :---- | :---- | :---- | :---- |
 | 1982 \- 1991 | Acorn MOS (BBC Microcomputer) |  |  |
-| 1992 \- 1993 | Atari ST TOS (GEM) |Sun OS 4.1 (Motorola 68k) | Windows 3.1 (x86) |
+| 1992 \- 1993 | Atari ST TOS (GEM Desktop) |Sun OS 4.1 (Motorola 68k) | Windows 3.1 (x86) |
 | 1994 | Solaris 2 (SPARC) | Windows 3.1 (x86) |  |
 | 1995 | Solaris 2 (SPARC) | SCO UNIX OpenServer 5 (x86) | Windows 3.1 (x86) |
 | 1996 | Windows NT3.5 (x86) | Solaris 2 (SPARC) |  |
