@@ -27,7 +27,8 @@
 | 2007 | Fedora (x86-64) | Ubuntu (x86-64) |  |
 | 2008 \- 2013 | Ubuntu (x86-64) |  |  |
 | 2014 \- 2018 | Ubuntu (x86-64) | Amazon Linux 1 (x86-64) |  |
-| 2019 \- now | Ubuntu (x86-64) | Chrome OS (x86-64) | Amazon Linux 2 (x86-64) |
+| 2019 \- 2025 | Ubuntu (x86-64) | Chrome OS (x86-64) | Amazon Linux 2 (x86-64) |
+| 2026 \- now | macOS Tahoe 26 (ARM64) | Ubuntu (x86-64) | Amazon Linux 2 (x86-64) |
 
 ## Programming Languages
 
